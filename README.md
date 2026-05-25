@@ -1,5 +1,3 @@
-# python-graphics
-
 # CS1Graphics Library
 
 ## Overview
